@@ -45,7 +45,7 @@ public class Cliente {
     public void setTelefono(String telefono) {
         this.telefono = telefono;
     }
-    
+    // nombre completo
     public String GetNombreCompleto() {
         return nombre + " " + apellido;
     }
